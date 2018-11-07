@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 283e0fb5d5acd714880e94e3bf50b6ed
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: RedBeard_TilesV2/RedBeard_TilesV2
+    400000: RedBeard_TilesV2/RedBeard_TilesV2/Transform
+    2300000: RedBeard_TilesV2/RedBeard_TilesV2/MeshRenderer
+    3300000: RedBeard_TilesV2/RedBeard_TilesV2/MeshFilter
+    11400000: sbsar
+    13500000: RedBeard_TilesV2/RedBeard_TilesV2/SphereCollider
+    100100000: RedBeard_TilesV2
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 232528478, guid: 43a8bbf65be290d44ba52b94476242b9, type: 3}
+  mGraphInstanceData: []
